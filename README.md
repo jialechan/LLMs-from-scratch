@@ -257,6 +257,6 @@ BibTeX entry:
 
 # Jiale note
 ```
-conda create -n LLMs-from-scratch python=3.8
+conda create -n LLMs-from-scratch python=3.10
 conda activate LLMs-from-scratch
 ```
