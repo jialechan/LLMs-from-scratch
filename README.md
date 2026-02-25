@@ -254,3 +254,9 @@ BibTeX entry:
   github       = {https://github.com/rasbt/LLMs-from-scratch}
 }
 ```
+
+# Jiale note
+```
+conda create -n LLMs-from-scratch python=3.8
+conda activate LLMs-from-scratch
+```
