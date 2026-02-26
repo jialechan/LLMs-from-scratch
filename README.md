@@ -257,6 +257,10 @@ BibTeX entry:
 
 # Jiale note
 ```
+# 环境相关
 conda create -n LLMs-from-scratch python=3.10
 conda activate LLMs-from-scratch
+pip install -r requirements.txt
+# 启动jupyter lab
+nohup jupyter lab --ip=0.0.0.0 --port=8888 --no-browser --allow-root &
 ```
